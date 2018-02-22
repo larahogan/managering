@@ -3,14 +3,14 @@
 ## Instructions for the hiring manager:
 1. Start a new doc for each role. Fill in each section.
 2. Duplicate the filled-out doc for each onsite candidate.
-    a. Add any candidate-specific signal you need to gather (e.g. leftover questions from the phone screens) to the end of the document.
+    * Add any candidate-specific signal you need to gather (e.g. leftover questions from the phone screens) to the end of the document.
 3. Share the doc with the recruiter to schedule from the potential interviewers list.
 4. Share the doc with the interviewers before the prebrief for a candidate.
 5. Walk through this doc in the prebrief. Ask:
-    a. For each interview slot, are the interviewers comfortable with the guidelines and/or setup for the slot? Do they understand the signal they need to gather?
-    b. Who can pick up the extra candidate-specific information you need to gather in their interview slot?
-    c. What, if any, topics are we missing?
-    d. Remind interviewers to promptly enter feedback after their interview so we can have an effective debrief.
+    * For each interview slot, are the interviewers comfortable with the guidelines and/or setup for the slot? Do they understand the signal they need to gather?
+    * Who can pick up the extra candidate-specific information you need to gather in their interview slot?
+    * What, if any, topics are we missing?
+    * Remind interviewers to promptly enter feedback after their interview so we can have an effective debrief.
 
 # Role Name - Onsite Loop
 
@@ -18,18 +18,16 @@
 
 ## Onsite Interview Slots:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
 | Purpose of interview slot | Potential interviewers |
 | --- | --- |
 | Assess mentorship skills | Person, Person |
 | Assess ABC | Person, Person, Person |
 | Assess DEF | Two of: Person, Person, Person, Person |
 | Assess GHI | Person |
+
+_Examples: assess stakeholder management skills, management skills, mobile development skills_
+
+_Hint: partner with others on your team, especially those who have been hiring managers before, to fill out the signals to gather and interviewer guidelines for each slot! Iterate on this doc as you learn more about how to gather strong signal for each topic._
 
 ### Example: Assess mentorship skills
 
