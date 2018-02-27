@@ -1,3 +1,7 @@
+_© 2018 [Wherewithall](http://where-with-all.com). Here's the [Google Doc version](https://docs.google.com/document/d/1IPRom6xu0YGkbMuIN_-1LU4YDr8lHl3ssQ7lG-5zwpw/edit?usp=sharing)._
+
+_This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)_
+
 # Template: Onsite Loop
 
 ## Instructions for the hiring manager:
@@ -25,9 +29,12 @@
 | Assess DEF | Two of: Person, Person, Person, Person |
 | Assess GHI | Person |
 
-_Examples: assess stakeholder management skills, management skills, mobile development skills_
+_Examples: assess stakeholder management skills, management skills, mobile development skills, etc._
 
-_Hint: partner with others on your team, especially those who have been hiring managers before, to fill out the signals to gather and interviewer guidelines for each slot! Iterate on this doc as you learn more about how to gather strong signal for each topic._
+_Hints:_
+
+* _Partner with others on your team, especially those who have been hiring managers before, to fill out the signals to gather and interviewer guidelines for each slot! Iterate on this doc as you learn more about how to gather strong signal for each topic._
+* _Create a library of interview slot purposes and signals that other hiring managers in your organization can use as inspiration, and add to!_
 
 ### Example: Assess mentorship skills
 
